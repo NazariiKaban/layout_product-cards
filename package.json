@@ -1,5 +1,5 @@
 {
-  "name": "cards",
+  "name": "product-cards",
   "version": "1.0.0",
   "description": "Frontend practice with product cards",
   "scripts": {
