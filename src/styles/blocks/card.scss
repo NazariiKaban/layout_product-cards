@@ -6,6 +6,27 @@
 
   background-color: #fff;
 
+  &__container {
+    display: flex;
+    justify-content: space-between;
+
+    width: calc(100% - 32px);
+    height: 16px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+
+    &-reviews {
+      width: 53px;
+      height: 16px;
+      padding-top: 2px;
+
+      font-size: 10px;
+      line-height: 14px;
+      color: #060b35;
+      text-align: right;
+    }
+  }
+
   &__image {
     width: 160px;
     height: 134px;
